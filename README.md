@@ -1,2 +1,2 @@
 # pict_uresqe.github.io
-a website for all photos taken by axion 
+a website for photos taken by axion
